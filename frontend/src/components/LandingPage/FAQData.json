@@ -1,0 +1,47 @@
+{
+    "faqProvider": [
+        {
+          "id": 1,
+          "question": "How do I sign up as a service provider on Craftify?",
+          "answer": "To sign up as a service provider on Craftify, simply visit our registration page and fill in your personal and professional details. You will need to upload your relevant certificates to verify your qualifications. Once your profile is reviewed and approved, you can start offering your services on the platform."
+        },
+        {
+          "id": 2,
+          "question": "How does Craftify help me manage my appointments?",
+          "answer": "Craftify provides a centralized dashboard where you can view and manage all your appointments. The platform integrates with your calendar, sending notifications for new job requests and scheduled appointments. This helps reduce the need for manual scheduling and minimizes the chances of double bookings or missed appointments."
+        },
+        {
+          "id": 3,
+          "question": "What happens after I accept a job request on Craftify?",
+          "answer": "After accepting a job request, the client will be notified of your acceptance. You can then communicate directly with the client if necessary to finalize details. On the day of the appointment, make sure to arrive punctually and complete the job to the client's satisfaction. Both you and the client will have the opportunity to leave feedback after the job is completed."
+        },
+        {
+          "id": 4,
+          "question": "How does Craftify ensure the quality of service providers?",
+          "answer": "Craftify requires all service providers to upload their professional certificates during the registration process. These documents are reviewed to ensure that only qualified and skilled professionals are listed on the platform. Additionally, client feedback and reviews help maintain high standards and build a trustworthy community."
+        }
+      ],
+      
+      "faqReceiver": [
+        {
+          "id": 5,
+          "question": "How do I find a service provider on Craftify?",
+          "answer": "To find a service provider, start by creating a profile on Craftify. Once registered, you can use the search function to specify the type of service you need, such as plumbing, painting, or electrical work. Enter your location and any specific requirements, and Craftify will show you a list of qualified service providers in your area."
+        },
+        {
+          "id": 6,
+          "question": "How do I know if a service provider is qualified and trustworthy?",
+          "answer": "Craftify ensures that all service providers are qualified by requiring them to upload their professional certificates during registration. These certificates are reviewed for validity. Additionally, you can read reviews and ratings from other clients to get an idea of the provider's reliability and quality of work."
+        },
+        {
+          "id": 7,
+          "question": "What should I do if I need to reschedule or cancel an appointment?",
+          "answer": "If you need to reschedule or cancel an appointment, you can do so through your Craftify dashboard. Navigate to your ongoing inquiries and select the appointment you wish to change. You can then propose a new time or cancel the appointment entirely. Make sure to communicate any changes to the service provider as soon as possible to avoid inconvenience."
+        },
+        {
+          "id": 8,
+          "question": "How do I make a payment for a completed service?",
+          "answer": "Payments on Craftify are handled securely through the platform. After the service is completed, you will receive a bill via Craftify. You can pay using your preferred payment method, which you can store in your profile for convenience. This ensures that transactions are safe and hassle-free."
+        }
+      ]
+}

@@ -1,0 +1,222 @@
+{
+    "servicesData": [
+        {
+            "image": "/assets/ServicePictures/Interior_Facade_Services.jpg",
+            "title": "Painting Services",
+            "description": "Transform your interiors with our expert painting services. Whether it's a wall, furnitures or textiles, we've got you covered.",
+            "subServices": [
+                {
+                    "name": "Interior Walls or Ceilings",
+                    "description": "Professional painting services for interior walls or ceilings, ensuring a clean and even finish.",
+                    "optionName": "Dimensions",
+                    "optionValues": ["square-meters"]
+                },
+                {
+                    "name": "Exterior walls",
+                    "description": "Exterior wall painting services to enhance and protect the exterior surfaces of your building.",
+                    "optionName": "Dimensions",
+                    "optionValues": ["square-meters"]
+                },
+                {
+                    "name": "Wood or wooden furniture",
+                    "description": "Specialized painting services for wood and wooden furniture, providing a durable and attractive finish.",
+                    "optionName": "Dimensions",
+                    "optionValues": ["square-meters"]
+                },
+                {
+                    "name": "Other",
+                    "description": "Custom painting services for any other painting needs you may have.",
+                    "optionName": "Dimensions",
+                    "optionValues": ["square-meters"]
+                }
+            ],
+            "link": "/painting"
+        },
+        {
+            "image": "/assets/ServicePictures/Carpentry_Services.jpg",
+            "title": "Carpentry Services",
+            "description": "From custom furniture to home repairs, our skilled carpenters deliver quality craftsmanship for every project.",
+            "subServices": [
+                {
+                    "name": "Floor",
+                    "description": "Carpentry services for flooring, including installation and repairs to ensure long-lasting and attractive floors.",
+                    "optionName": "Dimensions",
+                    "optionValues": ["square-meters"]
+                },
+                {
+                    "name": "Roof & Buildings",
+                    "description": "Carpentry services for roofs and building structures, providing robust and reliable construction and repair.",
+                    "optionName": "Dimensions",
+                    "optionValues": ["square-meters"]
+                },
+                {
+                    "name": "Furniture & Furnishings",
+                    "description": "Custom carpentry services for furniture and furnishings, designed to meet your specific requirements.",
+                    "optionName": "Dimensions",
+                    "optionValues": ["square-meters"]
+                },
+                {
+                    "name": "Other",
+                    "description": "Various carpentry services for any other needs not listed above.",
+                    "optionName": "Dimensions",
+                    "optionValues": ["square-meters"]
+                }
+            ],
+            "link": "/carpentry"
+        },
+        {
+            "image": "/assets/ServicePictures/Plumbing_Services.jpg",
+            "title": "Plumbing Services",
+            "description": "Keep your plumbing in top shape with our professional services. From leaks to installations, we handle it all.",
+            "subServices": [
+                {
+                    "name": "Gas",
+                    "description": "Gas plumbing services including gas piping, leakage detection, and gas connection installations.",
+                    "optionName": "Type",
+                    "optionValues": ["Gas piping", "Leakage detection", "Gas connection"]
+                },
+                {
+                    "name": "Sanitation",
+                    "description": "Sanitation plumbing services for wastewater, drainage sanitation, and solid waste management.",
+                    "optionName": "Type",
+                    "optionValues": ["Wastewater", "Drainage Sanitation", "Solid Waste"]
+                },
+                {
+                    "name": "Other",
+                    "description": "General plumbing services for any other plumbing requirements.",
+                    "optionName": "No specification",
+                    "optionValues": []
+                }
+            ],
+            "link": "/plumbing"
+        },
+        {
+            "image": "/assets/ServicePictures/Electronical_Services.jpg",
+            "title": "Electrical Services",
+            "description": "Ensure your home is safely powered with our certified electrical services. We handle everything from installations to repairs.",
+            "subServices": [
+                {
+                    "name": "Wiring & Lighting",
+                    "description": "Electrical services for wiring and lighting, including installation, repair, and maintenance.",
+                    "optionName": "Intent",
+                    "optionValues": ["Repair", "Maintainance", "Installing", "Consultation"]
+                },
+                {
+                    "name": "Renewable Power Systems",
+                    "description": "Services for installing, maintaining, and repairing renewable power systems such as solar panels.",
+                    "optionName": "Intent",
+                    "optionValues": ["Repair", "Maintainance", "Installing", "Consultation"]
+                },
+                {
+                    "name": "Home Automation",
+                    "description": "Installation and maintenance of home automation systems, including smart lighting and security systems.",
+                    "optionName": "Intent",
+                    "optionValues": ["Repair", "Maintainance", "Installing", "Consultation"]
+                },
+                {
+                    "name": "Other",
+                    "description": "Various electrical services to meet any other electrical needs you have.",
+                    "optionName": "No specification",
+                    "optionValues": []
+                }
+            ],
+            "link": "/electrical"
+        },
+        {
+            "image": "/assets/ServicePictures/Appliance_Services.jpg",
+            "title": "Appliance Services",
+            "description": "Get your appliances running smoothly again with our expert repair and maintenance services.",
+            "subServices": [
+                {
+                    "name": "Washer & Dryer",
+                    "description": "Repair and maintenance services for washers and dryers to ensure optimal performance.",
+                    "optionName": "Intent",
+                    "optionValues": ["Repair", "Maintainance", "Installing"]
+                },
+                {
+                    "name": "Oven & Stove",
+                    "description": "Services for repairing and maintaining ovens and stoves, ensuring safe and efficient operation.",
+                    "optionName": "Intent",
+                    "optionValues": ["Repair", "Maintainance", "Installing"]
+                },
+                {
+                    "name": "Dishwasher",
+                    "description": "Professional repair and maintenance services for dishwashers.",
+                    "optionName": "Intent",
+                    "optionValues": ["Repair", "Maintainance", "Installing"]
+                },
+                {
+                    "name": "Other",
+                    "description": "Comprehensive services for repairing and maintaining other household appliances.",
+                    "optionName": "Intent",
+                    "optionValues": ["Repair", "Maintainance", "Installing"]
+                }
+            ],
+            "link": "/appliance"
+        },
+        {
+            "image": "/assets/ServicePictures/HVAC_Services.jpg",
+            "title": "HVAC Services",
+            "description": "Maintain a comfortable home environment with our reliable HVAC services, including installation, maintenance, and repair.",
+            "subServices": [
+                {
+                    "name": "Heating",
+                    "description": "Installation, repair, and maintenance of heating systems to ensure a warm home.",
+                    "optionName": "Intent",
+                    "optionValues": ["Repair", "Maintainance", "Installing"]
+                },
+                {
+                    "name": "Ventilation",
+                    "description": "Services for installing, repairing, and maintaining ventilation systems for proper airflow.",
+                    "optionName": "Intent",
+                    "optionValues": ["Repair", "Maintainance", "Installing"]
+                },
+                {
+                    "name": "Air Conditioning",
+                    "description": "Comprehensive services for air conditioning systems, including installation, repair, and maintenance.",
+                    "optionName": "Intent",
+                    "optionValues": ["Repair", "Maintainance", "Installing"]
+                },
+                {
+                    "name": "Other",
+                    "description": "General HVAC services for any other heating, ventilation, or air conditioning needs.",
+                    "optionName": "No specification",
+                    "optionValues": []
+                }
+            ],
+            "link": "/hvac"
+        },
+        {
+            "image": "/assets/ServicePictures/Miscellaneous_Services.jpg",
+            "title": "Miscellaneous Services",
+            "description": "Besides listed Services we also do offer a range of other services which don't fall in any category above.",
+            "subServices": [
+                {
+                    "name": "Furniture Assembly",
+                    "description": "Assembly services for various types of furniture, ensuring proper and secure setup.",
+                    "optionName": "No specification",
+                    "optionValues": []
+                },
+                {
+                    "name": "Mounting of Appliances",
+                    "description": "Professional mounting services for appliances, ensuring they are securely installed.",
+                    "optionName": "No specification",
+                    "optionValues": []
+                },
+                {
+                    "name": "Safety Installations",
+                    "description": "Installation of childproofing and safety measures to ensure a safe environment.",
+                    "optionName": "No specification",
+                    "optionValues": []
+                },
+                {
+                    "name": "Other",
+                    "description": "Various miscellaneous services to meet any other needs you may have.",
+                    "optionName": "No specification",
+                    "optionValues": []
+                }
+            ],
+            "link": "/miscellaneous"
+        }
+    ]
+}

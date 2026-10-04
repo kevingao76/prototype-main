@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invoice from {{companyName}}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f6f6f6;
+            color: #333333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .header {
+            background-color: #3d85c6;
+            padding: 20px;
+            text-align: center;
+            color: #ffffff;
+        }
+        .header h1 {
+            margin: 0;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content p {
+            margin: 0 0 20px;
+        }
+        .content a {
+            display: inline-block;
+            background-color: #ff7900;
+            color: #ffffff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .footer {
+            background-color: #f6f6f6;
+            padding: 10px;
+            text-align: center;
+            color: #999999;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <h1>New Booking from {{receiverFirstname}}</h1>
+    </div>
+    <div class="content">
+        <p>Dear {{companyName}},</p>
+        <p>{{receiverFirstname}} has accepted the offer you sent them.</p>
+        <p>Log into the portal to view appointment.</p>
+        <a href="http://localhost:3000/serviceProvider/yourInquiries">Click here</a>
+        <p></p>
+        <p>Best regards,<br>Craftify</p>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 Craftify. All rights reserved.</p>
+    </div>
+</div>
+</body>
+</html>

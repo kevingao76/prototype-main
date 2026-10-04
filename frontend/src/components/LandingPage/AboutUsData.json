@@ -1,0 +1,24 @@
+{
+    "teamMembers": [
+        {
+          "name": "Tom Konstantin Ege",
+          "role": "M. Sc. Information Systems",
+          "image": "/assets/TeamPictures/Tom_Ege.jpg"
+        },
+        {
+          "name": "Kevin Kaiwen Gao",
+          "role": "M. Sc. Information Systems",
+          "image": "/assets/TeamPictures/Kevin_Gao.jpg"
+        },
+        {
+          "name": "Felix Luca Mengele",
+          "role": "M. Sc. Information Systems",
+          "image": "/assets/TeamPictures/Felix_Mengele.jpg"
+        },
+        {
+          "name": "Leon Wilhelm Weniger",
+          "role": "M. Sc. Information Systems",
+          "image": "/assets/TeamPictures/Leon_Weniger.jpg"
+        }
+      ]
+} 

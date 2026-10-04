@@ -1,0 +1,58 @@
+{
+    "DashboardProviderSteps": [
+        {
+            "target": "body",
+            "content": "Welcome to the dashboard! Let us guide you through the main features.",
+            "placement": "center",
+            "disableBeacon": true
+        },
+        {
+            "target": ".step1",
+            "content": "This section provides guides on how to create a profile that attracts customers, manage service inquiries, and set your prices."
+        },
+        {
+            "target": ".step2",
+            "content": "Here you can view and respond to pending inquiries from customers and manage customer interactions."
+        },
+        {
+            "target": ".step3",
+            "content": "This section displays your notifications and keeps you updated on progress in your inquiries."
+        },
+        {
+            "target": ".step4",
+            "content": "Here you can see and manage all your planned appointments. You can import your appointments from your Google Calendar or export appointments to ICS."
+        },
+        {
+            "target": ".step5",
+            "content": "This section is the most important one for the start. Here you can manage your service profile, including adding details like experience and expertise. Please add a service range and the services you want to offer, else receiver can't find you."
+        }
+    ],
+    "DashboardReceiverSteps": [
+        {
+            "target": "body",
+            "content": "Welcome to the dashboard! Let us guide you through the main features.",
+            "placement": "center",
+            "disableBeacon": true
+        },
+        {
+            "target": ".step1",
+            "content": "This blog provides readings on how you can use Craftify to leverage your cratsmn booking process"
+        },
+        {
+            "target": ".step2",
+            "content": "Click here to browse different services and find a craftsmen."
+        },
+        {
+            "target": ".step3",
+            "content": "Here you can view and respond to your requests, offers, and bookings. Find the current status of your inquiries here."
+        },
+        {
+            "target": ".step4",
+            "content": "This section displays your notifications and keeps you updated on progress in your inquiries."
+        },
+        {
+            "target": ".step5",
+            "content": "Here you can see and manage all your planned appointments. You can export appointments to ICS."
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "ProviderCards": [
+      {
+        "title": "Leveraging Craftify",
+        "description": "Check out our guides to know how to create a profile that attracts customers, how to manage service inquiries, or how to set your prices",
+        "icon": null,
+        "path": "/serviceProvider/blog",
+        "className": "step1",
+        "fullWidth": true
+      },
+      {
+        "title": "Your Inquiries",
+        "description": "View pending inquiries from customers, create offers, or adjust bookings",
+        "icon": "FormatListBulletedIcon",
+        "path": "/serviceProvider/yourInquiries",
+        "className": "step2"
+      },
+      {
+        "title": "Profile Management",
+        "description": "View and manage your account. Specify which services you want to provide",
+        "icon": "AccountBoxIcon",
+        "path": "/serviceProvider/profileManagement",
+        "className": "step5"
+      },
+      {
+        "title": "Notifications",
+        "description": "Receive and view system notifications for updates on your inquiries",
+        "icon": "NotificationsIcon",
+        "path": "/serviceProvider/Notifications",
+        "className": "step3"
+      },
+      {
+        "title": "Planned Appointments",
+        "description": "See and review all your planned appointments to plan your working schedule",
+        "icon": "CalendarTodayIcon",
+        "path": "/serviceProvider/plannedAppointments",
+        "className": "step4"
+      }
+    ],
+    "ReceiverCards": [
+      {
+        "title": "Leveraging Craftify",
+        "description": "Check out our blog to find out how you can use Craftify to leverage your craftsmen booking process",
+        "icon": null,
+        "path": "/serviceReceiver/blog",
+        "className": "step1",
+        "fullWidth": true
+      },
+      {
+        "title": "Your Inquiries",
+        "description": "View and manage your interactions with craftsmen",
+        "icon": "FormatListBulletedIcon",
+        "path": "/serviceReceiver/yourInquiries",
+        "className": "step3"
+      },
+      {
+        "title": "Browse Services",
+        "description": "Search Services to find the right craftsmen for your problem",
+        "icon": "SearchIcon",
+        "path": "/serviceReceiver/browseServices",
+        "className": "step2"
+      },
+      {
+        "title": "Notifications",
+        "description": "Receive and view system notifications for updates on your inquiries",
+        "icon": "NotificationsIcon",
+        "path": "/serviceReceiver/notifications",
+        "className": "step4"
+      },
+      {
+        "title": "Planned Appointments",
+        "description": "See and review all your planned appointments",
+        "icon": "CalendarTodayIcon",
+        "path": "/serviceReceiver/plannedAppointments",
+        "className": "step5"
+      }
+    ]
+  }
+  

@@ -1,0 +1,27 @@
+{
+    "menuItems": {
+      "provider": [
+        { "text": "Your Inquiries", "to": "/serviceProvider/yourInquiries" },
+        { "text": "Notifications", "to": "/serviceProvider/notifications" },
+        { "text": "Planned Appointments", "to": "/serviceProvider/plannedAppointments" },
+        { "text": "Profile Management", "to": "/serviceProvider/profileManagement" }
+      ],
+      "receiver": [
+        { "text": "Browse Services", "to": "/serviceReceiver/browseServices" },
+        { "text": "Your Inquiries", "to": "/serviceReceiver/yourInquiries" },
+        { "text": "Notifications", "to": "/serviceReceiver/notifications" },
+        { "text": "Planned Appointments", "to": "/serviceReceiver/plannedAppointments" }
+      ]
+    },
+    "userSettings": {
+      "provider": [
+        { "text": "Profile", "to": "/serviceProvider/ProfileManagement" },
+        { "text": "Log Out", "to": "/" }
+      ],
+      "receiver": [
+        { "text": "Profile", "to": "/servicereceiver/ProfileManagement" },
+        { "text": "Log Out", "to": "/" }
+      ]
+    }
+  }
+  
